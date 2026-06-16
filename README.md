@@ -24,7 +24,7 @@ Your Momentum app, packaged as an installable Progressive Web App. Seven files, 
 1. Open the URL in **Chrome** on your phone.
 2. Tap the **⋮ menu → Add to Home screen** (or "Install app" if Chrome offers it).
 3. Confirm. Momentum now opens full-screen from its own lavender icon, works offline, and keeps its own data.
-4. https://sattvit.github.io/Momentum/
+4. https://sattvitripathy.github.io/Momentum/
 
 ## Where your data lives
 
