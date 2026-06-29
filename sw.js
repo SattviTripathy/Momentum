@@ -1,6 +1,6 @@
 /* Momentum service worker — app shell caching for offline use.
    Bump CACHE_VERSION whenever you deploy a new app.js to force clients to update. */
-const CACHE_VERSION = "momentum-v5";
+const CACHE_VERSION = "momentum-v6";
 const APP_SHELL = [
   "./",
   "./index.html",
